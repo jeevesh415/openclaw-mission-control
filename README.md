@@ -57,6 +57,8 @@ If you haven't cloned the repo yet, you can run the installer in one line:
 curl -fsSL https://raw.githubusercontent.com/abhi1693/openclaw-mission-control/master/install.sh | bash
 ```
 
+This clones the repository into `./openclaw-mission-control` if no local checkout is found in your current directory.
+
 If you already cloned the repo:
 
 ```bash
